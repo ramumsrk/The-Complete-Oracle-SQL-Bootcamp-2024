@@ -1,0 +1,6 @@
+# Ignore Portable Document Format
+# with extension *.pdf
+*.pdf
+# Ignore image files with following
+# extensions
+*.png
